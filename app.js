@@ -1,4 +1,4 @@
-import { transform } from "https://github.com/episphere/quest-dev/quest2/replace2.js";
+import { transform } from "https://github.com/anthonypetersen/quest-dev-tool/main/test.js";
 
 document.getElementById("ta").addEventListener("input", function() {
     transform.render(
